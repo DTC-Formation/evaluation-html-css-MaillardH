@@ -1,0 +1,4 @@
+#Thu Jul 20 12:19:56 EAT 2023
+base.0=/mnt/3E9E48689E481AB3/02-PROJET/ApplicationMobile/DTC/H0012-Evaluation design Flutter/evaluation-html-css-MaillardH/evaluation/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
